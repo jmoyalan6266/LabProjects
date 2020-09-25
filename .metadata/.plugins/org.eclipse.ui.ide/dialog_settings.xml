@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/josephmoyalan/eclipse-workspace/SoundLab"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Secret Code"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/OoF"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/NBodySim"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/MountainClimber"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab25-NumberList"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab23-EvilHangman"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab22-FallingSand"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab21-SortingStudents"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab20-Searching, Sorting"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab19-MazeSolver"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab18-NumbrixPuzzle"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab17-FoxesAndRabbits"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab16-VehicleEmpire"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab15-Elevens"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab14-Sprites"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab13b-GreedyPath"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab13-AnimalHouse"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab12-UsedCars"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab11-AdventureTime"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab10-MorseCode"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab8-Cemetery"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/Lab07-Photoshop"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/CS3_Lab03-MazeSolver"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/CS3_Lab02-MyStack"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/WordCloud"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/BattingAverage"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/LabsJosephM/AnimalHouse"/>
+		<item value="/Users/josephmoyalan/eclipse-workspace/LabsJosephM"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="424" key="DIALOG_X_ORIGIN"/>
+		<item value="229" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

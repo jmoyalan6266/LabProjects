@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SoundClip()
+comment1.params=a
+comment1.target=SoundClip(double[])
+comment10.params=frequency\ seconds\ amplitudesFile
+comment10.target=void\ harmonicTone(double,\ double,\ java.lang.String)
+comment2.params=factor
+comment2.target=void\ adjustVolume(double)
+comment3.params=clip\ factor
+comment3.target=double[]\ adjustVolume(double[],\ double)
+comment4.params=
+comment4.target=double[]\ getClip()
+comment5.params=clip1\ clip2
+comment5.target=void\ mix(double[],\ double[])
+comment6.params=clip1\ clip2\ clip3\ clip4\ clip5
+comment6.target=void\ mix1(double[],\ double[],\ double[],\ double[],\ double[])
+comment7.params=clip1\ clip2
+comment7.target=void\ join(double[],\ double[])
+comment8.params=seconds
+comment8.target=void\ fadeIn(double)
+comment9.params=seconds
+comment9.target=void\ fadeOut(double)
+numComments=11
